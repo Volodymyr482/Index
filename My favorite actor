@@ -1,1 +1,14 @@
-My favorite actor
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<h1 align="centre">My favorite actor</h1>
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Vin_Diesel_cropped.jpg/379px-Vin_Diesel_cropped.jpg" alt="Girl in a jacket" width="500" height="400">
+
+<p><b>Tip:</b>Mark Sinclair (born July 18, 1967), known professionally as Vin Diesel, is an American actor and film producer. One of the world's highest-grossing actors, he is best known for portraying Dominic Toretto in the Fast & Furious franchise..</p>
+
+</body>
+</html>
